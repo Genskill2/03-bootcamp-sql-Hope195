@@ -2,7 +2,7 @@ INSERT INTO publisher (name, country) VALUES ('PHI',"India");
 INSERT INTO publisher (name, country) VALUES ('Harper',"USA");
 INSERT INTO publisher (name, country) VALUES ('GCP',"USA");
 INSERT INTO publisher (name, country) VALUES ('Avery',"USA");
-INSERT INTO publisher (name, country) VALUES ('Del Ray',"UK");
+INSERT INTO publisher (name, country) VALUES ('Del Rey',"UK");
 INSERT INTO publisher (name, country) VALUES ('Vintage',"UK");
 -- line break
 INSERT INTO books (title,publisher) VALUES ("The C Programming Language",1);
@@ -12,7 +12,7 @@ INSERT INTO books (title,publisher) VALUES ("Cryptonomicon",2);
 INSERT INTO books (title,publisher) VALUES ("Deep Work",3);
 INSERT INTO books (title,publisher) VALUES ("Atomic Habits",4);
 INSERT INTO books (title,publisher) VALUES ("The City and The City",5);
-INSERT INTO books (title,publisher) VALUES ("The Great War for Civilisation ",6);
+INSERT INTO books (title,publisher) VALUES ("The Great War for Civilisation",6);
 -- line break
 INSERT INTO subjects (name) VALUES ('C');
 INSERT INTO subjects (name) VALUES ('UNIX');
